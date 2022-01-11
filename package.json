@@ -1,0 +1,19 @@
+{
+  "name": "hexlet_one",
+  "version": "1.0.0",
+  "description": "My first project on hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shublon/hexlet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shublon/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Shublon/hexlet-js#readme"
+}
